@@ -1,4 +1,4 @@
-# Attentional Ppervasive Fabricate Vanish Attack
+# Attentional Pervasive Fabricate Vanish Attack
 ## Anonymous repository for AAAI2022 submission.
 
 ## Abstract
