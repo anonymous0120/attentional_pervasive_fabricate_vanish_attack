@@ -9,6 +9,8 @@ Adversarial examples have emerged as increasingly severe threats for deep neural
 
 ### Object detection on VOC and COCO
 
+<img src="https://github.com/anonymous0120/attentional_pervasive_fabricate_vanish_attack/blob/main/experimental_results/detection.PNG" width="50%" height="50%">
+
 ### Semantic segmentaion on VOC and COCO
 
 ### Classification on ImageNet
