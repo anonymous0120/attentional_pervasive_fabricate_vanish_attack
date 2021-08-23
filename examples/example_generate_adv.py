@@ -70,7 +70,6 @@ ATTACKS_CFG = {
 DR_LAYERS = {
   "vgg16": [12],
   "resnet152": [5],
-  "inception_v3": [4],
   "mobilenet_v2": [8]
 }
 

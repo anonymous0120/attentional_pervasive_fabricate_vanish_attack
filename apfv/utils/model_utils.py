@@ -24,6 +24,7 @@ class Normalize(torch.nn.Module):
     tensor = (tensor - mean_tile) / std_tile
     return tensor
 
+
 class UnNormalize(torch.nn.Module):
   def __init__(self, mean: tuple, std: tuple):
     super(UnNormalize, self).__init__()

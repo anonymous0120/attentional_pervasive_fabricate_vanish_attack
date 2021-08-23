@@ -19,6 +19,7 @@ from apfv21.utils.model_utils import Normalize
 
 import pdb
 
+
 class MOBILENET_V2(torch.nn.Module):
   def __init__(self, is_normalize: bool=True):
     super(MOBILENET_V2, self).__init__()
@@ -45,6 +46,3 @@ class MOBILENET_V2(torch.nn.Module):
       # if isinstance(model, torch.nn.modules.conv.Conv2d):
         layers.append(x)
     return layers, pred
-
-if __name__ == "__main__":
-    MobileNet_V2()

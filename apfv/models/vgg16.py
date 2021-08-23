@@ -47,4 +47,3 @@ class VGG16(torch.nn.Module):
       if(ii in internal):
         layers.append(x)
     return layers, pred
-

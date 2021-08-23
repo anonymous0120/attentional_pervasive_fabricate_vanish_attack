@@ -7,7 +7,10 @@ requirements = [
     'urllib3',
     'tqdm',
     'pillow',
-    'scipy'
+    'scipy',
+    'opencv-python'
+    # 'torch==1.2.0',
+    # 'torchvision==0.4.0'
 ]
 
 setup(
